@@ -1,0 +1,26 @@
+Change server details in this php files
+
+- review submitions.php
+- admins_login.php
+- admins_dashboard/admins_dashboard.php
+- admins_dashboard/bc_button.php
+- Teachers_login.php
+
+
+
+If you change the MAIN_DATABASE, Update these sql commands
+
+- review submitions.php
+- admin_dashboard.php
+- bc_button.php
+- teachers_registration.php
+
+
+Uncomment this
+- Uncomment the refreshing meta tag of admin_dashboard.php
+
+
+Email Sending
+- forget email or password.php
+- admin_dashboard.php --> when appoved
+- bc_button.php --> when appoved

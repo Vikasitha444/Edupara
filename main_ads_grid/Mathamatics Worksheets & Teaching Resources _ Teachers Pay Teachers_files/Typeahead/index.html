@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>jQuery Flexdatalist Examples</title>
+<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+<link href="jquery.flexdatalist.css" rel="stylesheet" type="text/css">
+<style>
+body { font-family:'Open Sans'; background-color:#fafafa;}
+.container { margin:150px auto 30px auto;}
+h2 { margin:20px auto;}
+</style>
+</head>
+
+<body>
+
+
+
+</div>
+</div>
+<div class="container">
+
+
+
+
+
+<h1>jQuery Flexdatalist Examples</h1>
+
+
+
+
+<h2>Basic Demo</h2>
+<p class="lead">Use local data from <code>datalist</code> tag.</p>
+
+<input type='text'
+       placeholder='Front-End Dev Skills'
+       class='flexdatalist form-control'
+       data-min-length='1'
+       list='skills'
+       name='skill'>
+       
+  <datalist id="skills">
+    <option value="Node.js">Node.js</option>
+    <option value="Accessibility">Accessibility</option>
+    <option value="Wireframing">Wireframing</option>
+    <option value="HTML5">HTML5</option>
+    <option value="CSS3">CSS3</option>
+    <option value="DOM Manipulation">DOM Manipulation</option>
+    <option value="MVC">MVC</option>
+    <option value="MVVM">MVVM</option>
+    <option value="JavaScript">JavaScript</option>
+    <option value="jQuery">jQuery</option>
+    <option value="ReactJS">ReactJS</option>
+</datalist>
+
+
+
+<input type="text"placeholder="Institute-Name"class="flexdatalist form-control"
+      data-min-length="1" list="institute_list">
+
+<datalist id="institute_list">
+  <option value="">Rotary - Nugegoda</option>
+  <option value="">Sasip - Nugegoda</option>
+  <option value="">ISM - Nugegoda</option>
+  <option value="">ISM - Maharagama</option>
+  <option value="">ISM - Kotikawatta</option>
+  <option value="">ISM - walampitiya</option>
+  <option value="">SyZyGy - Nugegoda</option>
+</datalist>
+
+
+
+
+
+
+
+<h2>Multiple Select</h2>
+<p class="lead">Use local data from <code>datalist</code> tag.</p>
+<input type='text'
+       placeholder='Front-End Dev Skills'
+       class='flexdatalist form-control'
+       data-min-length='1'
+       data-searchContain='true'
+       multiple='multiple'
+       list='skills'
+       name='skill'>
+       <datalist id="skills">
+    <option value="Node.js">Node.js</option>
+    <option value="Accessibility">Accessibility</option>
+    <option value="Wireframing">Wireframing</option>
+    <option value="HTML5">HTML5</option>
+    <option value="CSS3">CSS3</option>
+    <option value="DOM Manipulation">DOM Manipulation</option>
+    <option value="MVC">MVC</option>
+    <option value="MVVM">MVVM</option>
+    <option value="MV*">MV*</option>
+    <option value="Modules">Modules</option>
+    <option value="Microdata">Microdata</option>
+    <option value="JavaScript">JavaScript</option>
+    <option value="jQuery">jQuery</option>
+    <option value="ReactJS">ReactJS</option>
+</datalist>
+
+
+
+
+
+
+
+
+
+<script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
+<script src="jquery.flexdatalist.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+  
+</head>
+
+<body>
+  <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.3.1/flatly/bootstrap.min.css"> -->
+  <link href="dist/css/slide-out-panel.css" rel="stylesheet">
+
+  <button class="btn btn-primary" id="OpenSidePanelButton">Open Panel</button>
+
+
+
+
+  <div id="slide-out-panel" class="slide-out-panel">
+    <header>jQueryScript</header>
+    <section>
+      <p class="lead mb-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis ipsa reiciendis, consequuntur earum culpa pariatur commodi ducimus repellendus possimus quas porro itaque distinctio, reprehenderit voluptatum natus officia dolorum quia expedita.</p>
+    </section>
+    <footer>Footer</footer>
+  </div>
+      
+
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="dist/js/slide-out-panel.js"></script>
+  
+  <script>
+    const slideOutPanel = $('#slide-out-panel').SlideOutPanel({
+
+    });
+
+    $('body').on('click', '#OpenSidePanelButton', () => {
+      slideOutPanel.open();
+    });
+
+  </script>
+
+</body>
+
+</html>
