@@ -5,6 +5,8 @@ Edupara is an innovative educational platform that connects teachers with studen
 
 Edupara යනු ශ්‍රී ලංකාවේ ගුරුවරුන් සහ සිසුන් සම්බන්ධ කරන අධ්‍යාපනික වේදිකාවකි. ගුරුවරුන්ට තම පන්ති දැන්වීම් පළ කළ හැකි අතර සිසුන්ට තම අධ්‍යාපන අවශ්‍යතා සඳහා සුදුසු ගුරුවරුන් සොයා ගත හැකිය.
 
+
+
 ## Tutorial Videos | උපදෙස් වීඩියෝ
 
 ### 1. Teacher Registration Guide | ගුරුවරුන් ලියාපදිංචි වීමේ මාර්ගෝපදේශය
@@ -18,6 +20,9 @@ How to update your profile after registering as a teacher
 ### 3. Timetable Management | කාලසටහන් කළමනාකරණය
 How to update your timetable on edupara.lk
 [![Timetable Update](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)
+
+
+
 
 ## Features | විශේෂාංග
 
