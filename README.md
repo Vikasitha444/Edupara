@@ -1,97 +1,44 @@
-# 📚 Edupara.lk | The Educational Platform
+# Edupara.lk - Educational Platform
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Platform-Education-blue" alt="Platform Badge"/>
-  <img src="https://img.shields.io/badge/Country-Sri%20Lanka-green" alt="Country Badge"/>
-  <img src="https://img.shields.io/badge/Type-Web%20Platform-orange" alt="Type Badge"/>
-</div>
-
-## 🎯 About Edupara
-Edupara is an innovative educational platform that connects teachers with students in Sri Lanka. The platform serves as a bridge between educators and learners, making quality education more accessible.
+## About Edupara
+Edupara is an innovative educational platform that connects teachers with students in Sri Lanka. Teachers can advertise their classes while students can find and connect with the right teachers for their educational needs.
 
 Edupara යනු ශ්‍රී ලංකාවේ ගුරුවරුන් සහ සිසුන් සම්බන්ධ කරන අධ්‍යාපනික වේදිකාවකි. ගුරුවරුන්ට තම පන්ති දැන්වීම් පළ කළ හැකි අතර සිසුන්ට තම අධ්‍යාපන අවශ්‍යතා සඳහා සුදුසු ගුරුවරුන් සොයා ගත හැකිය.
 
----
+## Tutorial Videos | උපදෙස් වීඩියෝ
 
-## 📹 Tutorial Videos | උපදෙස් වීඩියෝ
+### 1. Teacher Registration Guide | ගුරුවරුන් ලියාපදිංචි වීමේ මාර්ගෝපදේශය
+Learn how to register as a teacher on edupara.lk
+[![Teacher Registration](https://img.youtube.com/vi/VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)
 
-### 1️⃣ Teacher Registration Guide
-> *How to register as a teacher on Edupara.lk*
-- 📁 [Watch Video](info_videos/How%20to%20register%20as%20a%20teacher%20on%20edupara.lk%20website.mp4)
-- Learn the step-by-step process of teacher registration
-- Understand the requirements and necessary information
+### 2. Profile Update Guide | පැතිකඩ යාවත්කාලීන කිරීමේ මාර්ගෝපදේශය
+How to update your profile after registering as a teacher
+[![Profile Update](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_2)
 
-### 2️⃣ Profile Update Guide
-> *How to update your profile after registration*
-- 📁 [Watch Video](info_videos/How%20do%20you%20update%20your%20profile%20after%20registering%20as%20a%20teacher%20on%20eduparapara.lk_.mp4)
-- Complete guide to profile customization
-- Tips for creating an attractive teacher profile
+### 3. Timetable Management | කාලසටහන් කළමනාකරණය
+How to update your timetable on edupara.lk
+[![Timetable Update](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)
 
-### 3️⃣ Timetable Management
-> *How to update your timetable*
-- 📁 [Watch Video](info_videos/How%20to%20update%20your%20time%20table%20on%20edupara.lk%20website.mp4)
-- Learn to manage your class schedule
-- Organize your teaching hours effectively
+## Features | විශේෂාංග
 
----
+### For Teachers | ගුරුවරුන් සඳහා
+- Create and manage your teacher profile | ඔබේ ගුරු පැතිකඩ සාදන්න සහ කළමනාකරණය කරන්න
+- Post class advertisements | පන්ති දැන්වීම් පළ කරන්න
+- Manage your timetable | ඔබේ කාලසටහන කළමනාකරණය කරන්න
+- Connect with students | සිසුන් සමඟ සම්බන්ධ වන්න
 
-## ✨ Key Features
+### For Students | සිසුන් සඳහා
+- Search for teachers | ගුරුවරුන් සොයන්න
+- View teacher profiles | ගුරු පැතිකඩ බලන්න
+- Check class schedules | පන්ති කාලසටහන් පරීක්ෂා කරන්න
+- Connect with teachers | ගුරුවරුන් සමඟ සම්බන්ධ වන්න
 
-### 👨‍🏫 For Teachers | ගුරුවරුන් සඳහා
-* **Profile Management**
-  * Create your professional profile
-  * Showcase your expertise and experience
-  * Highlight your teaching achievements
+## Contact | සම්බන්ධ වන්න
+- Website: [edupara.lk](https://edupara.lk)
+- Email: [contact@edupara.lk](mailto:contact@edupara.lk)
 
-* **Class Management**
-  * Post class advertisements
-  * Set your teaching schedule
-  * Manage student enrollments
-
-### 👨‍🎓 For Students | සිසුන් සඳහා
-* **Teacher Search**
-  * Find qualified teachers
-  * View detailed teacher profiles
-  * Access class schedules
-
-* **Easy Connection**
-  * Direct communication with teachers
-  * Simple class enrollment process
-  * Schedule viewing and management
+## Contributing | දායකත්වය
+If you'd like to contribute to this project, please feel free to submit pull requests.
 
 ---
-
-## 🌟 Benefits
-
-* 📱 User-friendly interface
-* 🔍 Advanced search functionality
-* 📅 Flexible scheduling
-* 💬 Direct communication
-* ⭐ Rating and review system
-
----
-
-## 📞 Contact Information
-
-* 🌐 **Website:** [edupara.lk](https://edupara.lk)
-* 📧 **Email:** [contact@edupara.lk](mailto:contact@edupara.lk)
-* 📱 **Social Media:**
-  * Facebook: [@eduparaLK](https://facebook.com/eduparaLK)
-  * Instagram: [@edupara.lk](https://instagram.com/edupara.lk)
-
----
-
-## 🤝 Contributing
-We welcome contributions to improve Edupara! If you'd like to contribute:
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
----
-
-<div align="center">
-  <i>© 2024 Edupara.lk - All Rights Reserved</i><br>
-  <sub>Made with ❤️ for Sri Lankan Education</sub>
-</div>
+© 2024 Edupara.lk - All Rights Reserved
