@@ -11,7 +11,7 @@ Edupara යනු ශ්‍රී ලංකාවේ ගුරුවරුන්
 
 ### 1. Teacher Registration Guide | ගුරුවරුන් ලියාපදිංචි වීමේ මාර්ගෝපදේශය
 Learn how to register as a teacher on edupara.lk
-[Watch: How to update your time table on edupara.lk website](info_videos/How%20to%20update%20your%20time%20table%20on%20edupara.lk%20website.mp4)
+[![Timetable Update](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)
 
 ### 2. Profile Update Guide | පැතිකඩ යාවත්කාලීන කිරීමේ මාර්ගෝපදේශය
 How to update your profile after registering as a teacher
